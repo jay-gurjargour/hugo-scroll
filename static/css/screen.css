@@ -517,11 +517,11 @@ ul li {
 .post-holder {
   width: 100%;
   height: 100%;
-  background: #f2efe8;
+  background: #ece8e3;
   position: relative;
 }
 .post-holder.odd {
-  background: #b80135;
+  background: #252A34;
   color: white;
 }
 
